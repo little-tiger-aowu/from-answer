@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'SweiB2SugarCJKtc-Black'; /* 思源黑体 */
+    
+    src: url('./SweiB2SugarCJKtc-Black.ttf');
+}
+
+@font-face {
+  	font-family: 'SourceHanSansCN-Heavy';
+	
+  	src: url('./SourceHanSansCN-Heavy.otf');
+}
+
+  @font-face {
+  	font-family: 'SourceHanSansCN-Light';
+  	src: url('./SourceHanSansCN-Light.otf');
+  }
+  
+  @font-face {
+  	font-family: 'SourceHanSansCN-Normal';
+  	src: url('./SourceHanSansCN-Normal.otf');
+  }
+  
+  @font-face {
+  	font-family: 'SourceHanSansCN-Regular';
+  	src: url('./SourceHanSansCN-Regular.otf');
+  }
+  
+  @font-face {
+  	font-family: 'SourceHanSansCN-Medium';
+  	src: url('./SourceHanSansCN-Medium.otf');
+  }
+  
+  @font-face {
+  	font-family: 'SourceHanSansCN-Bold';
+  	src: url('./SourceHanSansCN-Bold.otf');
+  }
+  
+  @font-face {
+  	font-family: 'SourceHanSansCN-ExtraLight';
+  	src: url('./SourceHanSansCN-ExtraLight.otf');
+  }
+  @font-face {
+  	font-family: 'FangZhengLTL';
+  	src: url('./FangZhengLTL.TTF');
+  }
